@@ -23,3 +23,6 @@ reference/
 
 # Playwright session artifacts
 .playwright-cli/
+
+# Local trigger-tree artifacts
+.trigger-tree/
