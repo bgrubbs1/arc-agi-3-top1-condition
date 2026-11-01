@@ -20,3 +20,6 @@ reference/
 .DS_Store
 .idea/
 .vscode/
+
+# Playwright session artifacts
+.playwright-cli/
