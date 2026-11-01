@@ -1,6 +1,6 @@
 {
   "id": "BradleyGrubbs2/arc-agi-3-top1-condition",
-  "title": "ARC-AGI-3 Top-1 Condition",
+  "title": "arc-agi-3-top1-condition",
   "code_file": "arc-agi-3-top1.ipynb",
   "language": "python",
   "kernel_type": "notebook",
